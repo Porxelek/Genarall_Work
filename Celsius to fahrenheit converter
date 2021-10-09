@@ -1,0 +1,4 @@
+celsius = (input("How many celsius: "))
+celsius = float(celsius)
+fahrenheit = float(celsius + 273.0)
+print("Fahrenait: ", fahrenheit)
